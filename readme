@@ -1,0 +1,24 @@
+# Vowel Checker
+
+## Author
+Jeremiah E. Ochepo
+
+## Code Description
+This Python script checks the occurrences of vowels (a, e, i, o, u, y) in a given plaintext file. It provides a count of each vowel found in a case-insensitive manner.
+
+## Last Updated Date
+7/03/19
+
+## How to Use
+1. Run the script in a Python environment.
+2. Enter the name of the plaintext file when prompted.
+3. The script will display the content of the file, its length, and the count of each vowel present.
+
+## File Structure
+- `vowel_checker.py`: Main Python script.
+- `text.txt`: Sample plaintext file. You can replace this with your own file.
+
+## Note
+If the entered file name is incorrect or the file does not exist, the script will display an error message.
+
+Feel free to customize the code or use it as a template for your own projects!
